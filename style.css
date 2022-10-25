@@ -119,8 +119,8 @@ nav ul li a:hover:after {
     letter-spacing: 1px;
     transition: all 0.4s ease-in-out;
     background-size: 152% 100%;
-    background:green;
-    border: 0.1px solid green;
+    background:rgb(0, 0, 0);
+    border: 0.1px solid rgb(0, 0, 0);
 }
 .btn2
 {
@@ -131,8 +131,8 @@ nav ul li a:hover:after {
     letter-spacing: 1px;
     transition: all 0.4s ease-in-out;
     background-size: 152% 100%;
-    background:rgb(32, 7, 79);
-    border: 0.1px solid rgb(32, 7, 79);
+    background:#bc2a8d	;
+    border: 0.1px solid bc2a8d;
 }
 .contact {
     position: relative;
