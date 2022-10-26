@@ -1,3 +1,3 @@
 # Portfolio-website
-SOURCE CODE FOR MY - 
-Personal website, using HTML, CSS, and JavaScript.
+SOURCE CODE - 
+My Personal website, using HTML, CSS, and JavaScript.
