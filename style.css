@@ -90,8 +90,6 @@ nav ul li a:hover:after {
     #7644ff 50.19%,
     #fd4766 79.69%
   );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 .content h1 {
   color: #1f1f25;
@@ -139,3 +137,29 @@ nav ul li a:hover:after {
     top: 35%;
     left: 8%;
 }
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+div {
+    width: 100vw;
+    height: 100vh;
+}
+
+.bi-brightness-high-fill
+{
+    font-size: 30px;
+    padding-top: 1%;
+    cursor: pointer;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+#toggleDark
+{
+    cursor: pointer;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
